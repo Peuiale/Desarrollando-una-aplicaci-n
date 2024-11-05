@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="botones" parent="Theme.AppCompat.Light">
+        <item name="colorButtonNormal">@color/colorAccent</item>
+        <item name="colorControlHighlight">@color/colorBotonSiguiente</item>
+        <item name="android:textColor">@color/colorBotonSiguiente</item>
+        <item name="android:textSize">@dimen/tamañoTextoBoton</item>
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Desarrollando una aplicación</string>
+    <string name="campo_nombre">Nombre completo: </string>
+    <string name="campo_telefono">Telefono: </string>
+    <string name="campo_email">Email: </string>
+    <string name="campo_descripcion">Descripción contacto: </string>
+    <string name="button_siguiente">Siguiente</string>
+    <string name="titulo">Confirmar Datos</string>
+    <string name="button_editar">Editar Datos</string>
+    <string name="keyCodeNombre">Nombre</string>
+    <string name="keyCodeFecha">Fecha</string>
+    <string name="keyCodeTelefono">Telefono</string>
+    <string name="keyCodeEmail">Email</string>
+    <string name="keyCodeDescripcion">Descripcion</string>
+    <string name="escogeFecha">Elige Fecha</string>
+</resources>
